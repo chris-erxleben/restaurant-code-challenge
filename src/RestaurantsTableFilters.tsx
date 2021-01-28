@@ -121,16 +121,16 @@ const RestaurantsTableFilters = ({
       </Select>
       <label htmlFor="attire-filter">Attire:</label>
       <Select
-          name="attires"
-          id="attire-filter"
-          value={selectedAttireFilter}
-          onChange={handleAttireFilterChange}
+        name="attires"
+        id="attire-filter"
+        value={selectedAttireFilter}
+        onChange={handleAttireFilterChange}
       >
         <option value="all">All</option>
         {attires.map((attire, index) => (
-            <option key={index} value={attire}>
-              {attire}
-            </option>
+          <option key={index} value={attire}>
+            {attire}
+          </option>
         ))}
       </Select>
       <label htmlFor="search-filter">Search:</label>

@@ -150,14 +150,16 @@ const RestaurantsTable = ({
               ) : null}
             </ClickableTableHeading>
             <th>Phone Number</th>
-            <ClickableTableHeading onClick={() => handleTableHeadClick('attire')}>
+            <ClickableTableHeading
+              onClick={() => handleTableHeadClick('attire')}
+            >
               Attire{' '}
               {selectedSortColumn === 'attire' ? (
-                  selectedSortDirection === 'asc' ? (
-                      <ArrowUpwardIcon />
-                  ) : (
-                      <ArrowDownwardIcon />
-                  )
+                selectedSortDirection === 'asc' ? (
+                  <ArrowUpwardIcon />
+                ) : (
+                  <ArrowDownwardIcon />
+                )
               ) : null}
             </ClickableTableHeading>
             <th>Genres</th>
