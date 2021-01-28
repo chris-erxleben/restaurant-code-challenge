@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restaurant-code-challenge/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/restaurant-code-challenge/static/js/main.aed66352.chunk.js",
+    "main.js.map": "/restaurant-code-challenge/static/js/main.aed66352.chunk.js.map",
+    "runtime-main.js": "/restaurant-code-challenge/static/js/runtime-main.5552758d.js",
+    "runtime-main.js.map": "/restaurant-code-challenge/static/js/runtime-main.5552758d.js.map",
+    "static/js/2.aa8072d5.chunk.js": "/restaurant-code-challenge/static/js/2.aa8072d5.chunk.js",
+    "static/js/2.aa8072d5.chunk.js.map": "/restaurant-code-challenge/static/js/2.aa8072d5.chunk.js.map",
+    "static/js/3.dc98f8bc.chunk.js": "/restaurant-code-challenge/static/js/3.dc98f8bc.chunk.js",
+    "static/js/3.dc98f8bc.chunk.js.map": "/restaurant-code-challenge/static/js/3.dc98f8bc.chunk.js.map",
+    "index.html": "/restaurant-code-challenge/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/restaurant-code-challenge/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aa8072d5.chunk.js.LICENSE.txt": "/restaurant-code-challenge/static/js/2.aa8072d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5552758d.js",
+    "static/js/2.aa8072d5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.aed66352.chunk.js"
+  ]
+}
